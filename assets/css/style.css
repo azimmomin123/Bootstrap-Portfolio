@@ -30,3 +30,21 @@
 li{
 	padding-top: 15px;
 }
+
+.portfolioImg{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	position: relative;
+}	
+
+.projectname{
+	width: 200px;
+	height: 40px;
+	background-color: #df691a;
+	position: relative;
+	top:-70px;
+	right: -73px;
+	text-align: center;
+	color: #ffffff;
+	padding-top: 10px;
+}
